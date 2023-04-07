@@ -16,7 +16,7 @@
   
   <div align="center">
   <h3>TinDog WebSite</h3>
-    <img width="225" height="308" src="https://github.com/jlrocha99/Tin-Dog-Website/blob/master/assets/to_readme/Tin-dog-responsive.gif">
+    <img width="265" height="308" src="https://github.com/jlrocha99/Tin-Dog-Website/blob/master/assets/to_readme/Tin-dog-responsive.gif">
     <img width="600" height="308" src="https://github.com/jlrocha99/Tin-Dog-Website/blob/master/assets/to_readme/tin-dog-desktop.gif">
   </div>
   
