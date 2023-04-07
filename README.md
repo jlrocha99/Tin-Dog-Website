@@ -1,17 +1,13 @@
 ## Description 
 
-  <p align="center">
-    This is project based in relationship website Tinder.
-    <br>
-    This website was build using tecnologies like:
-    -Html5
-    -Css3
-    -Bootstrap4
-    <br>
-    With a entire responsive design using concepts inside the Bootstrap4 like MediaQuery.
-    <br>I Hope you enjoy it!
-    <hr>
-   </p>
+  This is project based in the relationship website Tinder.<br>
+  This website was build using tecnologies like:<br>
+  -Html5
+  -Css3
+  -Bootstrap4 <br>
+  With a entire responsive design using concepts inside <br> the Bootstrap4 like MediaQuery.
+  <br><br>I Hope you enjoy it!
+  <hr>
   
   
   <div align="center">
